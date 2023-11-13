@@ -13,10 +13,10 @@
 8. Customers can rate delivery drivers and restaurants
 
 ## 2. ERD
-<div>
-<img src="![Screenshot 2023-11-13 at 2 23 34 AM](https://github.com/devRyanChoi/foodDeliveryApi/assets/120599634/0a4556e4-02ae-4936-a6bd-3058101189ae)
-" alt="">
-</div>
+
+![Screenshot 2023-11-13 at 2 23 34 AM](https://github.com/devRyanChoi/foodDeliveryApi/assets/120599634/0a4556e4-02ae-4936-a6bd-3058101189ae)
+
+
 
 
 ## 3. Entity & DB Class Design
